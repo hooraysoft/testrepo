@@ -1,0 +1,27 @@
+# git ignore file
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.pdf
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
+Ankh.NoLoad
+Elmah.Errors
+*.Publish.xml
+.vs/
+.idea/
+/ProfitOptics.Framework.Web/wwwroot/js/site.min.js
+/ProfitOptics.Framework.Web/wwwroot/js/site.js
+/ProfitOptics.Framework.Web/wwwroot/js/site.already-minified.js
+/ProfitOptics.Framework.Web/wwwroot/css/site.min.css
+/ProfitOptics.Framework.Web/wwwroot/css/site.css
+/ProfitOptics.Framework.Web/Modules/
+*node_modules*
+package-lock.json
