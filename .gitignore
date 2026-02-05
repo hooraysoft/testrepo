@@ -3,7 +3,6 @@
 [Bb]in
 *.user
 *.suo
-*.tst
 *.[Cc]ache
 *.bak
 *.pdf
